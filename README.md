@@ -1,5 +1,5 @@
 # mov2gif
-Convert .MOV to gif with
+Convert .MOV to gif with ffmpeg.
 
 Usage:
 
