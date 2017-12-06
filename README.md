@@ -3,7 +3,8 @@ Convert .MOV to gif with ffmpeg.
 
 Usage:
 
-```
+```bash
+brew install ffmpeg
 ./mov2gif.sh 20 1280 input.mov output.gif
 ```
 
